@@ -1,7 +1,7 @@
 # Final-Project
 ## Machine Learning Section.
-For our final project, I was in charge of starting up the Machine Learning part of our project. We will be using a data set from https://www.kaggle.com/murattademir/heart-disease-binary-classification and a Machine Learning aloritihim to predict Heart Disease in Patients. 
-This dataset contains 253,680 survey responses from cleaned BRFSS 2015. Our Target variable is a Binary of a classification of a 0 (meaning this specific patient doesn't have or was not diagnosed a heart complication.) or a 1 (meaning a diagnosis of a heart disease or attack). Using this data set we hope to build a Machine Learning algorithim to accuratley predict if patients have a risk of diagnosis of Heart Disease or Heart Attacks.
+For our final project, I was in charge of starting up the Machine Learning part of our project. We will be using a data set from https://www.kaggle.com/murattademir/heart-disease-binary-classification and a Machine Learning aloritihim to accuratley predict Heart Disease or Heart Attakcs using this dataset. 
+This dataset contains 253,680 survey responses from cleaned BRFSS 2015. Our Target variable is a Binary of a classification of a 0 (meaning this specific patient doesn't have or was not diagnosed a heart complication.) or a 1 (meaning a diagnosis of a heart disease or attack).
 
 The List of other data points in this set are as follows...
 

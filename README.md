@@ -2,7 +2,7 @@
 ## External Links 
 Presentation Slides - https://docs.google.com/presentation/d/12LBR7YiAXR8ZI2CO1T-zZUv7ogXIeeVE1DsjBdtWcPM/edit?pli=1#slide=id.p
 
-Tableau Interactive - https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/Sheet1?publish=yes
+Tableau Interactive - https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/Dashboard1
 
 ## Machine Learning Section.
 For our final project, I was in charge of starting up the Machine Learning part of our project. We will be using a data set from https://www.kaggle.com/murattademir/heart-disease-binary-classification and a Machine Learning aloritihim to accuratley predict Heart Disease or Heart Attakcs using this dataset. 
